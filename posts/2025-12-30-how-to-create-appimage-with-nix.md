@@ -1,6 +1,6 @@
 ---
 title: Bundle a Gleam project into an AppImage with Nix
-published: false
+published: true
 description: You can turn any package into a single binary using the nix bundle command.
 tags: nix, gleam
 ---
