@@ -5,6 +5,8 @@ description: You can turn any package into a single binary using the nix bundle 
 tags: nix, gleam
 ---
 
+This article is a translation of this [Japanese article](https://comamoca.dev/blog/2025-12-17-build-gleam-erlang-target-to-single-binary-with-nix/).
+
 ## nix bundle
 
 Nix has a convenient, albeit unstable, command called `nix bundle`.
